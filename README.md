@@ -1,4 +1,4 @@
-# Chicago_Crime_Data
+# Chicago Crime Data
 This repository contains an exploratory data analysis of crime, socio-economic, and school performance data in Chicago.
 
 # Project Overview
